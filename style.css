@@ -1,0 +1,17 @@
+.s01{
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    border: solid 2px #fff6;
+    text-align: center;
+    padding: 10px;
+}
+
+.s02{
+    color: white;
+    background-color: rgb(56, 109, 56);
+    font-size: 20px;
+    border: solid 2px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    padding: 10px;
+}
